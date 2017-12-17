@@ -1,0 +1,23 @@
+{
+  "name": "marko-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambichetan/marko-test.git"
+  },
+  "author": "Ambi,Chetan <chetan.g.ambi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambichetan/marko-test/issues"
+  },
+  "homepage": "https://github.com/ambichetan/marko-test#readme",
+  "dependencies": {
+    "lasso-marko": "^2.4.0",
+    "marko": "^4.7.4"
+  }
+}
