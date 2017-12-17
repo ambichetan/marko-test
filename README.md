@@ -1,4 +1,6 @@
 # marko-test
+This is a sample Markojs Application. More info here: https://markojs.com/docs/getting-started/
+
 we can build our bundle for the browser:
 
 lasso --main client.js --plugins lasso-marko --inject-into index.html
